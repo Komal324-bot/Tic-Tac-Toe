@@ -11,4 +11,4 @@ Thsi si a simple game of tic tac toe that I created by using javascript,HTML and
 - The winner name is displayed.
 ![k](https://user-images.githubusercontent.com/72390027/147584046-5c3fcde0-b551-455e-bd4c-46358049d4b0.PNG)
 
-<img src="https://user-images.githubusercontent.com/72390027/147584061-207e08bd-f5d9-4205-8901-0b48f849160e.PNG" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/72390027/147584061-207e08bd-f5d9-4205-8901-0b48f849160e.PNG" width="600" height="600">
